@@ -1,2 +1,4 @@
 A blanket is comforting as we work from a far.
 Below are the musings from learners of R:
+We will learn all about using shiny apps,
+To loop, and to code, and generate heat maps.
