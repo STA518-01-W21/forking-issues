@@ -1,2 +1,4 @@
 A blanket is comforting as we work from a far.
 Below are the musings from learners of R:
+If you have a matrix, and want it's element,
+put the row before the column, before your code is sent.
